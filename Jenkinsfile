@@ -1,2 +1,2 @@
-@Library('my-shared-library') 
-Myapp1 'https://github.com/anthonynwanne/Myapp1.git'
+@Library('my-shared-library') _
+ Myapp 'https://github.com/anthonynwanne/Myapp1.git'
